@@ -1,0 +1,22 @@
+{
+  "name": "ai",
+  "version": "0.0.1",
+  "description": "ai",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ai-test"
+  },
+  "keywords": [
+    "ai"
+  ],
+  "author": "k4",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express": "^5.1.0"
+  }
+}
